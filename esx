@@ -1,0 +1,32 @@
+[33mcommit 506a4580c3097e1a214584e188c9c8ac3c821c3c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 2e9d6b6 45aa08f
+Author: abhishekspradhan <69381187+abhishekspradhan@users.noreply.github.com>
+Date:   Sun Jan 31 11:52:17 2021 +0530
+
+    Merge pull request #1 from abhishekspradhan/feature
+    
+    Feature commit
+
+[33mcommit 45aa08f90bea2e1f7a94fff2d8dd6c5eb498bf69[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Abhishek <pradhan792@gmail.com>
+Date:   Sun Jan 31 11:51:00 2021 +0530
+
+    Feature commit
+
+[33mcommit 2e9d6b6a66ccfc2979a4e93754061541e7f85b5f[m[33m ([m[1;32mnew_branch[m[33m)[m
+Author: Abhishek <pradhan792@gmail.com>
+Date:   Sun Jan 31 10:59:40 2021 +0530
+
+    This is adding file c into the console
+
+[33mcommit 428b8d085ba5d5f4ba7dbd60e3c860bc272d9c4e[m
+Author: Abhishek <pradhan792@gmail.com>
+Date:   Sat Jan 30 16:50:41 2021 +0530
+
+    This is a second commit on my file A
+
+[33mcommit d705f8f2c586a0ea010d334a5306e28da52bb9c3[m
+Author: Abhishek <pradhan792@gmail.com>
+Date:   Sat Jan 30 16:37:11 2021 +0530
+
+    This is an initial commit
